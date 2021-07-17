@@ -9,7 +9,7 @@ In the second part, the following questions were answered using statistical anal
 
 * What factors are significantly related to the number of store purchases?
 * Does US fare significantly better than the Rest of the World in terms of total purchases?
-Your supervisor insists that people who buy gold are more conservative. Therefore, people who spent an above average amount on gold in the last 2 years would have more in store purchases. Justify or refute this statement using an appropriate statistical test
-Fish has Omega 3 fatty acids which are good for the brain. Accordingly, do "Married PhD candidates" have a significant relation with amount spent on fish? What other factors are significantly related to amount spent on fish? (Hint: use your knowledge of interaction variables/effects)
-Is there a significant relationship between geographical regional and success of a campaign?
-What does the average customer look like for this company?
+* Your supervisor insists that people who buy gold are more conservative. Therefore, people who spent an above average amount on gold in the last 2 years would have more in store purchases. Justify or refute this statement using an appropriate statistical test
+* Fish has Omega 3 fatty acids which are good for the brain. Accordingly, do "Married PhD candidates" have a significant relation with amount spent on fish? What other factors are significantly related to amount spent on fish? (Hint: use your knowledge of interaction variables/effects)
+* Is there a significant relationship between geographical regional and success of a campaign?
+* What does the average customer look like for this company?
